@@ -3,7 +3,7 @@
       "name": "Chess Moveclass Scorevio",
       "is_landscape": false,
       "more_apps": false,
-      "activity_start": true,
+      "activity_start": false,
       "icon": "https://i.ibb.co/HGV6n8F/512.png",
       "url": "https://html5.gamedistribution.com/rvvASMiM/0d48dd97ba3f4f79aabf9531331be439/index.html",
       "activity_update": false,
